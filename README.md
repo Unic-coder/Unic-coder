@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akilesh - @Unic-coder
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Backend web development
+- 👀 Building myself as a Full stack developer
+- 🌱 Currently learning Backend web development
 - 📫 reach me Instagram @technical_tamizha_official
 
 <!---
