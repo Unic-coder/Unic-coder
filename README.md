@@ -1,9 +1,3 @@
 - 👋 Hi, I’m Akilesh - @Unic-coder
-- 👀 Building myself as a Full stack developer
-- 🌱 Currently learning Backend web development
+- 👀 UI / UX Designer
 - 📫 reach me Instagram @akils_official
-
-<!---
-Unic-coder/Unic-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
